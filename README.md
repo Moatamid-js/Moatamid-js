@@ -31,7 +31,7 @@
 
 ### 📬 Contact Me
 
-- Email: **your-email@example.com** (غيره إلى بريدك)
+- Email: **moatamid.designs@gmail.com** 
 - GitHub: [github.com/Moatamid-js](https://github.com/Moatamid-js)
 
 ---
