@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Moatamid</h1>
+<h3 align="center">A passionate Front-End Developer</h3>
 
-<!--
-**Moatamid-js/Moatamid-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I'm a dedicated **Front-End Developer** with a focus on clean, responsive designs and smooth user experiences.
+
+🎨 Skilled in turning Figma designs into pixel-perfect, responsive websites.
+
+🌱 Currently learning **JavaScript (advanced concepts)** and diving into **React.js** to build more dynamic applications.
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 **Languages:** HTML, CSS, SCSS, JavaScript  
+- 🧩 **Frameworks & Tools:** Figma, Git, GitHub  
+- 🎨 **Strengths:** Responsive Design, UI implementation, converting designs to code
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moatamid-js&show_icons=true&theme=radical" alt="Moatamid's GitHub Stats" />
+</p>
+
+---
+
+### 📬 Contact Me
+
+- Email: **your-email@example.com** (غيره إلى بريدك)
+- GitHub: [github.com/Moatamid-js](https://github.com/Moatamid-js)
+
+---
+
+### 🚀 Future Goals
+
+- Build real-world projects with **React**
+- Contribute to open-source projects
+- Master JavaScript deeply
+
+---
+
